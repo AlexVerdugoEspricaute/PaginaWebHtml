@@ -1,0 +1,22 @@
+.card-body, .titulo {
+    text-align: center;
+}
+body {
+    background-color: rgb(157, 211, 205);
+    margin-top: 5px;
+    margin-bottom: 130px;
+    margin-left: 5px;
+    margin-right: 5px;
+ }
+a {
+    color:rgb(0, 0, 0);
+}
+div {
+    margin: 5px;
+    margin-bottom: 5px;
+}
+#ingresar{
+    position: absolute;
+    right: 20px;
+    text-align: center;
+}

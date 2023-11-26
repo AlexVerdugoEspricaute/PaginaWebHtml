@@ -1,0 +1,30 @@
+ section {
+    display: flex;
+    flex-direction: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin-top: 5px;
+    margin-bottom: 120px;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+body {
+   background-color: #B2EBF2;
+   margin-top: 5px;
+   margin-bottom: 5px;
+}
+a {
+    color:rgb(0, 0, 0);
+}
+#ingresar{
+    position: absolute;
+    right: 20px;
+    text-align: center;
+}
